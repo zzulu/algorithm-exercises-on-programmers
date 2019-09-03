@@ -2,6 +2,7 @@
 
 ## Integer(정수)
 | Programmers sites | solutions | remarks |
+| ---- | ---- | ----|
 | [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937?language=ruby) | [30-12937](solutions/30-12937.rb) | (`.even?`, `.odd?`) (Very easy) | 
 | [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940?language=ruby) | [30-12940](solutions/30-12940.rb) | (`.gcdlcm`) (Very easy) |
 | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921?language=ruby) | [30-12921](solutions/30-12921.rb) | (`require 'prime'`) |
@@ -14,6 +15,7 @@
 
 ## String(문자열)
 | Programmers sites | solutions | remarks |
+| ---- | ---- | ----|
 | [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925?language=ruby) | [30-12925](solutions/30-12925.rb) | (Very easy) |
 | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922?language=ruby) | [30-12922](solutions/30-12922.rb) | |
 | [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933?language=ruby) | [30-12933](solutions/30-12933.rb) | (w/ Array) |
@@ -26,6 +28,7 @@
 
 ## Array(배열)
 | Programmers sites | solutions | remarks |
+| ---- | ---- | ----|
 | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919?language=ruby) | [30-12919](solutions/30-12919.rb) | (Very easy) |
 | [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944?language=ruby) | [30-12944](solutions/30-12944.rb) | (Easy) |
 | [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912?language=ruby) | [30-12912](solutions/30-12912.rb) | `(a..b).sum` 가능 (a < b, ruby >= 2.4.0) | 
@@ -40,8 +43,10 @@
 
 ## Hash(해쉬)
 | Programmers sites | solutions | remarks |
+| ---- | ---- | ----|
 | - | - | - |
 
 ## Ruby version doesn't exist!(루비 버전 없음)
 | Programmers sites | solutions | remarks |
+| ---- | ---- | ----|
 | [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906?language=ruby) | [30-12906](solutions/30-12906.rb) | |
