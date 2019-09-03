@@ -41,6 +41,7 @@
 | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977?language=ruby) | [30-12977](solutions/30-12977.rb) | (`.combination`, `require` `'``prime``'`) |
 | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953?language=ruby) | [30-12953](solutions/30-12953.rb) | (`.lcm`, Iterator, pop, push) |
 | [탑](https://programmers.co.kr/learn/courses/30/lessons/42588?language=ruby) | [30-42588](solutions/30-42588.rb) | |
+| [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585?language=ruby) | [30-42585](solutions/30-42585.rb) | (Stack 사용) |
 
 ## Hash(해쉬)
 | Programmers sites | solutions | remarks |
