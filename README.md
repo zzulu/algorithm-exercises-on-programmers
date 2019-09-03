@@ -40,6 +40,7 @@
 | [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954?language=ruby) | [30-12954](solutions/30-12954.rb) | (응용, 풀이법이 많이 다양할 수 있음.) |
 | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977?language=ruby) | [30-12977](solutions/30-12977.rb) | (`.combination`, `require` `'``prime``'`) |
 | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953?language=ruby) | [30-12953](solutions/30-12953.rb) | (`.lcm`, Iterator, pop, push) |
+| [탑](https://programmers.co.kr/learn/courses/30/lessons/42588?language=ruby) | [30-42588](solutions/30-42588.rb) | |
 
 ## Hash(해쉬)
 | Programmers sites | solutions | remarks |
