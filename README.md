@@ -4,7 +4,7 @@
 
 
 ## Integer(정수)
-| Programmers sites | solutions | remarks |
+| Programmers sites | Solutions | Remarks |
 | ---- | ---- | ----|
 | [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937?language=python3) | [rb](solutions/rb/30-12937.rb) [py](solutions/py/30-12937.py) | (`.even?`, `.odd?`) (Very easy) | 
 | [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940?language=python3) | [rb](solutions/rb/30-12940.rb) | (`.gcdlcm`) (Very easy) |
@@ -18,7 +18,7 @@
 
 
 ## String(문자열)
-| Programmers sites | solutions | remarks |
+| Programmers sites | Solutions | Remarks |
 | ---- | ---- | ----|
 | [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925?language=python3) | [rb](solutions/rb/30-12925.rb) [py](solutions/py/30-12925.py) | (Very easy) |
 | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922?language=python3) | [rb](solutions/rb/30-12922.rb) | |
@@ -32,7 +32,7 @@
 
 
 ## List, Array(배열)
-| Programmers sites | solutions | remarks |
+| Programmers sites | Solutions | Remarks |
 | ---- | ---- | ----|
 | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919?language=python3) | [rb](solutions/rb/30-12919.rb) | (Very easy) |
 | [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944?language=python3) | [rb](solutions/rb/30-12944.rb) | (Easy) |
@@ -53,13 +53,14 @@
 
 
 ## Dict, Hash
-| Programmers sites | solutions | remarks |
+| Programmers sites | Solutions | Remarks |
 | ---- | ---- | ----|
 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) | [py](solutions/py/30-42576.py) | |
 
 
 ## Greedy
 
-| Programmers sites | solutions | remarks |
+| Programmers sites | Solutions | Remarks |
 | ---- | ---- | ----|
 | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883?language=python3) | [py](solutions/py/30-42883.py) | |
+| [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899?language=python3) | [py](solutions/py/30-12899.py) | |
