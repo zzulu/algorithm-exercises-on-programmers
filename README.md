@@ -24,11 +24,12 @@
 | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922?language=python3) | [rb](solutions/rb/30-12922.rb) | |
 | [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933?language=python3) | [rb](solutions/rb/30-12933.rb) | (w/ Array) |
 | [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917?language=python3) | [rb](solutions/rb/30-12907.rb) | (w/ Array) |
-| [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=python3) | [](solutions/py/30-12903.py) [rb](solutions/rb/30-12903.rb) | (w/ Array) |
+| [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=python3) | [py](solutions/py/30-12903.py) [rb](solutions/rb/30-12903.rb) | (w/ Array) |
 | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930?language=python3) | [rb](solutions/rb/30-12930.rb) | (w/ Array) |
 | [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948?language=python3) | [rb](solutions/rb/30-12948.rb) | (`regex`) |
 | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951?language=python3) | [rb](solutions/rb/30-12951.rb) | |
 | [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926?language=python3) | [rb](solutions/rb/30-12926.rb) | |
+| [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916?language=python3) | [py](solutions/py/30-12916.rb) | |
 
 
 ## List, Array(배열)
@@ -48,7 +49,7 @@
 | [탑](https://programmers.co.kr/learn/courses/30/lessons/42588?language=python3) | [rb](solutions/rb/30-42588.rb) | |
 | [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585?language=python3) | [rb](solutions/rb/30-42585.rb) | (Stack 사용) |
 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587?language=python3) | [rb](solutions/rb/30-42587.rb) | (Stack) |
-| [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748?language=python3) | [py](solutions/rb/30-42748.py) | |
+| [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748?language=python3) | [py](solutions/py/30-42748.py) | |
 | [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906?language=python3) | [rb](solutions/rb/30-12906.rb) [py](solutions/py/30-12906.py) | |
 
 
