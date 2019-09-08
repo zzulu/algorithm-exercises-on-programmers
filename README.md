@@ -24,7 +24,7 @@
 | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922?language=python3) | [rb](solutions/rb/30-12922.rb) | |
 | [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933?language=python3) | [rb](solutions/rb/30-12933.rb) | (w/ Array) |
 | [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917?language=python3) | [rb](solutions/rb/30-12907.rb) | (w/ Array) |
-| [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=python3) | [rb](solutions/rb/30-12903.rb) | (w/ Array) |
+| [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=python3) | [](solutions/py/30-12903.py) [rb](solutions/rb/30-12903.rb) | (w/ Array) |
 | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930?language=python3) | [rb](solutions/rb/30-12930.rb) | (w/ Array) |
 | [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948?language=python3) | [rb](solutions/rb/30-12948.rb) | (`regex`) |
 | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951?language=python3) | [rb](solutions/rb/30-12951.rb) | |
