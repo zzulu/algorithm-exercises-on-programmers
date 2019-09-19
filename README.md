@@ -15,6 +15,7 @@
 | [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934?language=python3) | [rb](solutions/rb/30-12934.rb) | |
 | [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943?language=python3) | [rb](solutions/rb/30-12943.rb) | (ruby 제출자 3명이 다 다른 코드로 작성함.) |
 | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947?language=python3) | [rb](solutions/rb/30-12947.rb) | |
+| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931?language=python3) | [py](solutions/py/30-12931.py) | |
 
 
 ## String(문자열)
