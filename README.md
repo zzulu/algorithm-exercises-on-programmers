@@ -1,4 +1,4 @@
-# Algorithm Exercises, on Programmers
+# Algorithm Problem Solving on Programmers
 
 - The default language of all links is `python3`.
 
