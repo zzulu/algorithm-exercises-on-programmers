@@ -1,7 +1,5 @@
 # Algorithm Problem Solving on Programmers
 
-- The default language of all links is `python3`.
-
 
 ## Integer(정수)
 | Programmers sites | Solutions | Remarks |
