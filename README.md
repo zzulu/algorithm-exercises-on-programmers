@@ -4,8 +4,8 @@
 ## Integer
 | Programmers sites | Solutions | Remarks |
 | ---- | ---- | ----|
-| [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937?language=python3) | [rb](solutions/rb/30-12937.rb) [py](solutions/py/30-12937.py) | (`.even?`, `.odd?`) (Very easy) | 
-| [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940?language=python3) | [rb](solutions/rb/30-12940.rb) | (`.gcdlcm`) (Very easy) |
+| [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937?language=python3) | [rb](solutions/rb/30-12937.rb) [py](solutions/py/30-12937.py) | (`.even?`, `.odd?`) | 
+| [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940?language=python3) | [rb](solutions/rb/30-12940.rb) | (`.gcdlcm`) |
 | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921?language=python3) | [rb](solutions/rb/30-12921.rb) | (`require 'prime'`) |
 | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928?language=python3) | [rb](solutions/rb/30-12928.rb) | (w/ Array) |
 | [최대값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939?language=python3) | [rb](solutions/rb/30-12939.rb) | (w/ String, Array, `.minmax`) |
@@ -19,7 +19,7 @@
 ## String
 | Programmers sites | Solutions | Remarks |
 | ---- | ---- | ----|
-| [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925?language=python3) | [rb](solutions/rb/30-12925.rb) [py](solutions/py/30-12925.py) | (Very easy) |
+| [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925?language=python3) | [rb](solutions/rb/30-12925.rb) [py](solutions/py/30-12925.py) | |
 | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922?language=python3) | [rb](solutions/rb/30-12922.rb) | |
 | [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933?language=python3) | [rb](solutions/rb/30-12933.rb) | (w/ Array) |
 | [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917?language=python3) | [rb](solutions/rb/30-12907.rb) | (w/ Array) |
@@ -34,7 +34,7 @@
 ## List, Array
 | Programmers sites | Solutions | Remarks |
 | ---- | ---- | ----|
-| [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919?language=python3) | [rb](solutions/rb/30-12919.rb) | (Very easy) |
+| [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919?language=python3) | [rb](solutions/rb/30-12919.rb) | |
 | [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944?language=python3) | [rb](solutions/rb/30-12944.rb) | (Easy) |
 | [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912?language=python3) | [rb](solutions/rb/30-12912.rb) | `(a..b).sum` 가능 (a < b, ruby >= 2.4.0) | 
 | [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910?language=python3) | [rb](solutions/rb/30-12910.rb) | |
@@ -71,6 +71,12 @@
 | Programmers sites | Solutions | Remarks |
 | ---- | ---- | ----|
 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=python3) | [py](solutions/py/30-42840.py) | |
+
+
+## 연습문제
+| Programmers sites | Solutions | Remarks |
+| ---- | ---- | ----|
+| [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925?language=python3) | [py](solutions/py/30-12925.py) | |
 
 
 ## ?
