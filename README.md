@@ -1,7 +1,7 @@
 # Algorithm Problem Solving on Programmers
 
 
-## Integer(정수)
+## Integer
 | Programmers sites | Solutions | Remarks |
 | ---- | ---- | ----|
 | [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937?language=python3) | [rb](solutions/rb/30-12937.rb) [py](solutions/py/30-12937.py) | (`.even?`, `.odd?`) (Very easy) | 
@@ -16,7 +16,7 @@
 | [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931?language=python3) | [py](solutions/py/30-12931.py) | |
 
 
-## String(문자열)
+## String
 | Programmers sites | Solutions | Remarks |
 | ---- | ---- | ----|
 | [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925?language=python3) | [rb](solutions/rb/30-12925.rb) [py](solutions/py/30-12925.py) | (Very easy) |
@@ -31,7 +31,7 @@
 | [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916?language=python3) | [py](solutions/py/30-12916.rb) | |
 
 
-## List, Array(배열)
+## List, Array
 | Programmers sites | Solutions | Remarks |
 | ---- | ---- | ----|
 | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919?language=python3) | [rb](solutions/rb/30-12919.rb) | (Very easy) |
@@ -64,6 +64,13 @@
 | ---- | ---- | ----|
 | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883?language=python3) | [py](solutions/py/30-42883.py) | |
 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862?language=python3) | [py](solutions/py/30-42862.py) | |
+
+
+## 완전탐색
+
+| Programmers sites | Solutions | Remarks |
+| ---- | ---- | ----|
+| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=python3) | [py](solutions/py/30-42840.py) | |
 
 
 ## ?
