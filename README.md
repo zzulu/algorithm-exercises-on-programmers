@@ -37,7 +37,6 @@
 | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919?language=python3) | [rb](solutions/rb/30-12919.rb) | |
 | [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944?language=python3) | [rb](solutions/rb/30-12944.rb) | (Easy) |
 | [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912?language=python3) | [rb](solutions/rb/30-12912.rb) | `(a..b).sum` 가능 (a < b, ruby >= 2.4.0) | 
-| [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910?language=python3) | [rb](solutions/rb/30-12910.rb) | |
 | [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981?language=python3) | [rb](solutions/rb/30-12981.rb) | (Hard) |
 | [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935?language=python3) | [rb](solutions/rb/30-12935.rb) |
 | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945?language=python3) | [rb](solutions/rb/30-12945.rb) | (분류가 애매함. Iterator) |
@@ -79,6 +78,7 @@
 | ---- | ---- | ----|
 | [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925?language=python3) | [py](solutions/py/30-12925.py) | |
 | [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915?language=python3) | [py](solutions/py/30-12915.py) | |
+| [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910?language=python3) | [rb](solutions/py/30-12910.py) [rb](solutions/rb/30-12910.rb) | List, Array |
 
 
 ## ?
