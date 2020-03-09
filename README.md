@@ -76,13 +76,8 @@
 ## 연습문제
 | Programmers sites | Solutions | Remarks |
 | ---- | ---- | ----|
+| [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899?language=python3) | [py](solutions/py/30-12899.py) | |
 | [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925?language=python3) | [py](solutions/py/30-12925.py) | |
 | [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915?language=python3) | [py](solutions/py/30-12915.py) | |
 | [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910?language=python3) | [rb](solutions/py/30-12910.py) [rb](solutions/rb/30-12910.rb) | List, Array |
-
-
-## ?
-
-| Programmers sites | Solutions | Remarks |
-| ---- | ---- | ----|
-| [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899?language=python3) | [py](solutions/py/30-12899.py) | |
+| [가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904?language=python3) | [py](solutions/py/30-12904.py) | String |
