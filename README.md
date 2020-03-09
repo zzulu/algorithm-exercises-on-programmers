@@ -78,6 +78,7 @@
 | Programmers sites | Solutions | Remarks |
 | ---- | ---- | ----|
 | [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925?language=python3) | [py](solutions/py/30-12925.py) | |
+| [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915?language=python3) | [py](solutions/py/30-12915.py) | |
 
 
 ## ?
