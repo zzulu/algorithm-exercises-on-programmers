@@ -28,7 +28,6 @@
 | [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948?language=python3) | [rb](solutions/rb/30-12948.rb) | (`regex`) |
 | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951?language=python3) | [rb](solutions/rb/30-12951.rb) | |
 | [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926?language=python3) | [rb](solutions/rb/30-12926.rb) | |
-| [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916?language=python3) | [py](solutions/py/30-12916.rb) | |
 
 
 ## List, Array
@@ -81,7 +80,7 @@
 | [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910?language=python3) | [py](solutions/py/30-12910.py) [rb](solutions/rb/30-12910.rb) | List, Array |
 | [가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904?language=python3) | [py](solutions/py/30-12904.py) | String |
 | [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912?language=python3) | [py](solutions/py/30-12912.py) | |
-
+| [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916?language=python3) | [py](solutions/py/30-12916.py) | |
 
 
 ## 스택/큐
