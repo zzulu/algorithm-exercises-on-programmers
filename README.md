@@ -20,7 +20,6 @@
 | ---- | ---- | ---- |
 | [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925?language=python3) | [rb](solutions/rb/30-12925.rb) [py](solutions/py/30-12925.py) | |
 | [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933?language=python3) | [rb](solutions/rb/30-12933.rb) | (w/ Array) |
-| [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917?language=python3) | [rb](solutions/rb/30-12907.rb) | (w/ Array) |
 | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=python3) | [py](solutions/py/30-12903.py) [rb](solutions/rb/30-12903.rb) | (w/ Array) |
 | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930?language=python3) | [rb](solutions/rb/30-12930.rb) | (w/ Array) |
 | [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948?language=python3) | [rb](solutions/rb/30-12948.rb) | (`regex`) |
@@ -79,8 +78,9 @@
 | [가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904?language=python3) | [py](solutions/py/30-12904.py) | String |
 | [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912?language=python3) | [py](solutions/py/30-12912.py) | |
 | [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916?language=python3) | [py](solutions/py/30-12916.py) | |
-| [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922?language=python3) | [py](solutions/rb/30-12922.py) [rb](solutions/rb/30-12922.rb) | |
+| [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922?language=python3) | [py](solutions/py/30-12922.py) [rb](solutions/rb/30-12922.rb) | |
 | [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937?language=python3) | [py](solutions/py/30-12937.py) [rb](solutions/rb/30-12937.rb) | (`.even?`, `.odd?`) | 
+| [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917?language=python3) | [py](solutions/py/30-12907.py) [rb](solutions/rb/30-12907.rb) | String, Array |
 
 
 ## 스택/큐
