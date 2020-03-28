@@ -4,7 +4,6 @@
 ## Integer
 | Programmers sites | Solutions | Remarks |
 | ---- | ---- | ---- |
-| [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937?language=python3) | [rb](solutions/rb/30-12937.rb) [py](solutions/py/30-12937.py) | (`.even?`, `.odd?`) | 
 | [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940?language=python3) | [rb](solutions/rb/30-12940.rb) | (`.gcdlcm`) |
 | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921?language=python3) | [rb](solutions/rb/30-12921.rb) | (`require 'prime'`) |
 | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928?language=python3) | [rb](solutions/rb/30-12928.rb) | (w/ Array) |
@@ -81,6 +80,7 @@
 | [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912?language=python3) | [py](solutions/py/30-12912.py) | |
 | [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916?language=python3) | [py](solutions/py/30-12916.py) | |
 | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922?language=python3) | [py](solutions/rb/30-12922.py) [rb](solutions/rb/30-12922.rb) | |
+| [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937?language=python3) | [py](solutions/py/30-12937.py) [rb](solutions/rb/30-12937.rb) | (`.even?`, `.odd?`) | 
 
 
 ## 스택/큐
