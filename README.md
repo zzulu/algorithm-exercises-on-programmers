@@ -80,11 +80,13 @@
 | [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915?language=python3) | [py](solutions/py/30-12915.py) | |
 | [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910?language=python3) | [py](solutions/py/30-12910.py) [rb](solutions/rb/30-12910.rb) | List, Array |
 | [가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904?language=python3) | [py](solutions/py/30-12904.py) | String |
+| [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912?language=python3) | [py](solutions/py/30-12912.py) | |
+
 
 
 ## 스택/큐
 | Programmers sites | Solutions | Remarks |
 | ---- | ---- | ---- |
 | [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585?language=python3) | [py](solutions/py/30-42585.py) [rb](solutions/rb/30-42585.rb) | List, Array |
-| [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=python3) | [py](solutions/py/30-42586.py) | List, Array |
+| [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=python3) | [py](solutions/py/30-42586.py) | |
 
