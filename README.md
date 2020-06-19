@@ -80,7 +80,8 @@
 | [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916?language=python3) | [py](solutions/py/30-12916.py) | |
 | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922?language=python3) | [py](solutions/py/30-12922.py) [rb](solutions/rb/30-12922.rb) | |
 | [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937?language=python3) | [py](solutions/py/30-12937.py) [rb](solutions/rb/30-12937.rb) | (`.even?`, `.odd?`) | 
-| [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917?language=python3) | [py](solutions/py/30-12907.py) [rb](solutions/rb/30-12907.rb) | String, Array |
+| [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917?language=python3) | [py](solutions/py/30-12917.py) [rb](solutions/rb/30-12917.rb) | String, Array |
+| [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919?language=python3) | [py](solutions/py/30-12919.py) | |
 
 
 ## 스택/큐
