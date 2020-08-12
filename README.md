@@ -82,7 +82,7 @@
 | [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937?language=python3) | [py](solutions/py/30-12937.py) [rb](solutions/rb/30-12937.rb) | (`.even?`, `.odd?`) | 
 | [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917?language=python3) | [py](solutions/py/30-12917.py) [rb](solutions/rb/30-12917.rb) | String, Array |
 | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919?language=python3) | [py](solutions/py/30-12919.py) | |
-
+| [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954?language=python3) | [py](solutions/py/30-12954.py) | | 
 
 ## 스택/큐
 | Programmers sites | Solutions | Remarks |
