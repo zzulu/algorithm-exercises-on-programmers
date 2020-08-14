@@ -23,7 +23,7 @@
 | ---- | ---- | ---- |
 | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919?language=python3) | [rb](solutions/rb/30-12919.rb) | |
 | [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981?language=python3) | [rb](solutions/rb/30-12981.rb) | |
-| [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935?language=python3) | [rb](solutions/rb/30-12935.rb) |
+| [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935?language=python3) | [rb](solutions/rb/30-12935.rb) | |
 | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945?language=python3) | [rb](solutions/rb/30-12945.rb) | |
 | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977?language=python3) | [rb](solutions/rb/30-12977.rb) | |
 | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953?language=python3) | [rb](solutions/rb/30-12953.rb) | |
@@ -76,7 +76,7 @@
 | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928?language=python3) | [py](solutions/py/30-12928.py) [rb](solutions/rb/30-12928.rb) | |
 | [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950?language=python3) | [py](solutions/py/30-12950.py) [rb](solutions/rb/30-12950.rb) | |
 | [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948?language=python3) | [py](solutions/py/30-12948.py) [rb](solutions/rb/30-12948.rb) | |
-| [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944?language=python3) | [py](solutions/py/30-12944.py) [rb](solutions/rb/30-12944.rb) | (Easy) |
+| [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944?language=python3) | [py](solutions/py/30-12944.py) [rb](solutions/rb/30-12944.rb) | |
 | [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906?language=python3) | [rb](solutions/rb/30-12906.rb) [py](solutions/py/30-12906.py) | |
 | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=python3) | [py](solutions/py/30-12903.py) [rb](solutions/rb/30-12903.rb) | |
 | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947?language=python3) | [py](solutions/py/30-12947.py) [rb](solutions/rb/30-12947.rb) | |
@@ -84,13 +84,14 @@
 | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930?language=python3) | [py](solutions/py/30-12930.py) [rb](solutions/rb/30-12930.rb) | |
 | [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943?language=python3) | [py](solutions/py/30-12943.py) [rb](solutions/rb/30-12943.rb) | |
 | [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926?language=python3) | [py](solutions/py/30-12926.py) [rb](solutions/rb/30-12926.rb) | |
+| [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932?language=python3) | [py](solutions/py/30-12932.py) | |
 
 
 ## 스택/큐
 
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
-| [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585?language=python3) | [py](solutions/py/30-42585.py) [rb](solutions/rb/30-42585.rb) | List, Array |
+| [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585?language=python3) | [py](solutions/py/30-42585.py) [rb](solutions/rb/30-42585.rb) | |
 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=python3) | [py](solutions/py/30-42586.py) | |
 | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584?language=python3) | [py](solutions/py/30-42584.py) | |
 
