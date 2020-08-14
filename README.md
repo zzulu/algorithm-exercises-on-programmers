@@ -69,6 +69,7 @@
 
 
 ## 연습문제
+
 | Programmers sites | Solutions | Remarks |
 | ---- | ---- | ---- |
 | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899?language=python3) | [py](solutions/py/30-12899.py) | |
@@ -84,10 +85,11 @@
 | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919?language=python3) | [py](solutions/py/30-12919.py) | |
 | [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954?language=python3) | [py](solutions/py/30-12954.py) | | 
 | [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901?language=python3) | [py](solutions/py/30-12901.py) | | 
+| [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921?language=python3) | [py](solutions/py/30-12921.py) | 에라토스테네스의 체 | 
+
 
 ## 스택/큐
 | Programmers sites | Solutions | Remarks |
 | ---- | ---- | ---- |
 | [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585?language=python3) | [py](solutions/py/30-42585.py) [rb](solutions/rb/30-42585.rb) | List, Array |
 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=python3) | [py](solutions/py/30-42586.py) | |
-
