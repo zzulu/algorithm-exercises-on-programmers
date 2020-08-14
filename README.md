@@ -27,7 +27,6 @@
 | Programmers sites | Solutions | Remarks |
 | ---- | ---- | ---- |
 | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919?language=python3) | [rb](solutions/rb/30-12919.rb) | |
-| [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944?language=python3) | [rb](solutions/rb/30-12944.rb) | (Easy) |
 | [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912?language=python3) | [rb](solutions/rb/30-12912.rb) | `(a..b).sum` 가능 (a < b, ruby >= 2.4.0) | 
 | [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981?language=python3) | [rb](solutions/rb/30-12981.rb) | (Hard) |
 | [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935?language=python3) | [rb](solutions/rb/30-12935.rb) |
@@ -85,6 +84,7 @@
 | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928?language=python3) | [py](solutions/py/30-12928.py) [rb](solutions/rb/30-12928.rb) | |
 | [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950?language=python3) | [py](solutions/py/30-12950.py) [rb](solutions/rb/30-12950.rb) | |
 | [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948?language=python3) | [py](solutions/py/30-12948.py) [rb](solutions/rb/30-12948.rb) | |
+| [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944?language=python3) | [py](solutions/py/30-12944.py) [rb](solutions/rb/30-12944.rb) | (Easy) |
 
 
 ## 스택/큐
