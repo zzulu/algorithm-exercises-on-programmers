@@ -5,14 +5,11 @@
 | Programmers sites | Solutions | Remarks |
 | ---- | ---- | ---- |
 | [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940?language=python3) | [rb](solutions/rb/30-12940.rb) | (`.gcdlcm`) |
-| [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921?language=python3) | [rb](solutions/rb/30-12921.rb) | (`require 'prime'`) |
-| [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928?language=python3) | [rb](solutions/rb/30-12928.rb) | (w/ Array) |
 | [최대값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939?language=python3) | [rb](solutions/rb/30-12939.rb) | (w/ String, Array, `.minmax`) |
 | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911?language=python3) | [rb](solutions/rb/30-12911.rb) | (w/ String) |
 | [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934?language=python3) | [rb](solutions/rb/30-12934.rb) | |
 | [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943?language=python3) | [rb](solutions/rb/30-12943.rb) | (ruby 제출자 3명이 다 다른 코드로 작성함.) |
 | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947?language=python3) | [rb](solutions/rb/30-12947.rb) | |
-| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931?language=python3) | [py](solutions/py/30-12931.py) | |
 
 
 ## String
@@ -85,7 +82,9 @@
 | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919?language=python3) | [py](solutions/py/30-12919.py) | |
 | [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954?language=python3) | [py](solutions/py/30-12954.py) | | 
 | [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901?language=python3) | [py](solutions/py/30-12901.py) | | 
-| [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921?language=python3) | [py](solutions/py/30-12921.py) | 에라토스테네스의 체 | 
+| [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921?language=python3) | [py](solutions/py/30-12921.py) [rb](solutions/rb/30-12921.rb) | 에라토스테네스의 체 | 
+| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931?language=python3) | [py](solutions/py/30-12931.py) | |
+| [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928?language=python3) | [py](solutions/py/30-12928.py) [rb](solutions/rb/30-12928.rb) | |
 
 
 ## 스택/큐
