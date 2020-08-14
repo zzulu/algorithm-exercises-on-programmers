@@ -7,10 +7,10 @@
 | [최대값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939?language=python3) | [rb](solutions/rb/30-12939.rb) | |
 | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911?language=python3) | [rb](solutions/rb/30-12911.rb) | |
 | [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934?language=python3) | [rb](solutions/rb/30-12934.rb) | |
-| [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943?language=python3) | [rb](solutions/rb/30-12943.rb) | |
 
 
 ## String
+
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
 | [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933?language=python3) | [rb](solutions/rb/30-12933.rb) | |
@@ -19,6 +19,7 @@
 
 
 ## List, Array
+
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
 | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919?language=python3) | [rb](solutions/rb/30-12919.rb) | |
@@ -32,6 +33,7 @@
 
 
 ## 해시
+
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) | [py](solutions/py/30-42576.py) | |
@@ -81,9 +83,11 @@
 | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947?language=python3) | [py](solutions/py/30-12947.py) [rb](solutions/rb/30-12947.rb) | |
 | [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940?language=python3) | [py](solutions/py/30-12940.py) [rb](solutions/rb/30-12940.rb) | |
 | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930?language=python3) | [py](solutions/py/30-12930.py) [rb](solutions/rb/30-12930.rb) | |
+| [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943?language=python3) | [py](solutions/py/30-12943.py) [rb](solutions/rb/30-12943.rb) | |
 
 
 ## 스택/큐
+
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
 | [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585?language=python3) | [py](solutions/py/30-42585.py) [rb](solutions/rb/30-42585.rb) | List, Array |
