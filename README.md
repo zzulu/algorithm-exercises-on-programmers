@@ -4,7 +4,6 @@
 ## Integer
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
-| [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940?language=python3) | [rb](solutions/rb/30-12940.rb) | |
 | [최대값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939?language=python3) | [rb](solutions/rb/30-12939.rb) | |
 | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911?language=python3) | [rb](solutions/rb/30-12911.rb) | |
 | [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934?language=python3) | [rb](solutions/rb/30-12934.rb) | |
@@ -33,13 +32,13 @@
 | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748?language=python3) | [py](solutions/py/30-42748.py) | |
 
 
-## Dict, Hash
+## 해시
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) | [py](solutions/py/30-42576.py) | |
 
 
-## Greedy
+## 탐욕법(Greedy)
 
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
@@ -81,6 +80,7 @@
 | [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906?language=python3) | [rb](solutions/rb/30-12906.rb) [py](solutions/py/30-12906.py) | |
 | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=python3) | [py](solutions/py/30-12903.py) [rb](solutions/rb/30-12903.rb) | |
 | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947?language=python3) | [py](solutions/py/30-12947.py) [rb](solutions/rb/30-12947.rb) | |
+| [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940?language=python3) | [py](solutions/py/30-12940.py) [rb](solutions/rb/30-12940.rb) | |
 
 
 ## 스택/큐
