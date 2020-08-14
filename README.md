@@ -33,7 +33,6 @@
 | [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981?language=python3) | [rb](solutions/rb/30-12981.rb) | (Hard) |
 | [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935?language=python3) | [rb](solutions/rb/30-12935.rb) |
 | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945?language=python3) | [rb](solutions/rb/30-12945.rb) | (분류가 애매함. Iterator) |
-| [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950?language=python3) | [rb](solutions/rb/30-12950.rb) | |
 | [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954?language=python3) | [rb](solutions/rb/30-12954.rb) | (응용, 풀이법이 많이 다양할 수 있음.) |
 | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977?language=python3) | [rb](solutions/rb/30-12977.rb) | (`.combination`, `require` `'``prime``'`) |
 | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953?language=python3) | [rb](solutions/rb/30-12953.rb) | (`.lcm`, Iterator, pop, push) |
@@ -85,6 +84,7 @@
 | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921?language=python3) | [py](solutions/py/30-12921.py) [rb](solutions/rb/30-12921.rb) | 에라토스테네스의 체 | 
 | [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931?language=python3) | [py](solutions/py/30-12931.py) | |
 | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928?language=python3) | [py](solutions/py/30-12928.py) [rb](solutions/rb/30-12928.rb) | |
+| [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950?language=python3) | [py](solutions/py/30-12950.py) [rb](solutions/rb/30-12950.rb) | |
 
 
 ## 스택/큐
