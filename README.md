@@ -14,7 +14,6 @@
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
 | [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933?language=python3) | [rb](solutions/rb/30-12933.rb) | |
-| [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930?language=python3) | [rb](solutions/rb/30-12930.rb) | |
 | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951?language=python3) | [rb](solutions/rb/30-12951.rb) | |
 | [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926?language=python3) | [rb](solutions/rb/30-12926.rb) | |
 
@@ -81,6 +80,7 @@
 | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=python3) | [py](solutions/py/30-12903.py) [rb](solutions/rb/30-12903.rb) | |
 | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947?language=python3) | [py](solutions/py/30-12947.py) [rb](solutions/rb/30-12947.rb) | |
 | [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940?language=python3) | [py](solutions/py/30-12940.py) [rb](solutions/rb/30-12940.rb) | |
+| [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930?language=python3) | [py](solutions/py/30-12930.py) [rb](solutions/rb/30-12930.rb) | |
 
 
 ## 스택/큐
