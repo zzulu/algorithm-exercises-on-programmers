@@ -22,7 +22,6 @@
 | ---- | ---- | ---- |
 | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919?language=python3) | [rb](solutions/rb/30-12919.rb) | |
 | [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981?language=python3) | [rb](solutions/rb/30-12981.rb) | |
-| [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935?language=python3) | [rb](solutions/rb/30-12935.rb) |
 | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945?language=python3) | [rb](solutions/rb/30-12945.rb) | |
 | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977?language=python3) | [rb](solutions/rb/30-12977.rb) | |
 | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953?language=python3) | [rb](solutions/rb/30-12953.rb) | |
@@ -84,6 +83,7 @@
 | [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943?language=python3) | [py](solutions/py/30-12943.py) [rb](solutions/rb/30-12943.rb) | |
 | [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926?language=python3) | [py](solutions/py/30-12926.py) [rb](solutions/rb/30-12926.rb) | |
 | [최대값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939?language=python3) | [py](solutions/py/30-12939.py) [rb](solutions/rb/30-12939.rb) | |
+| [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935?language=python3) | [py](solutions/py/30-12935.py) [rb](solutions/rb/30-12935.rb) | |
 
 
 ## 스택/큐
