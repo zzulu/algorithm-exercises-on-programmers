@@ -1,13 +1,6 @@
 # Algorithmic Problem Solving on Programmers
 
 
-## String
-
-| Title | Solutions | Remarks |
-| ---- | ---- | ---- |
-| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951?language=python3) | [rb](solutions/rb/30-12951.rb) | |
-
-
 ## List, Array
 
 | Title | Solutions | Remarks |
@@ -79,6 +72,7 @@
 | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911?language=python3) | [py](solutions/py/30-12911.py) [rb](solutions/rb/30-12911.rb) | |
 | [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934?language=python3) | [py](solutions/py/30-12934.py) [rb](solutions/rb/30-12934.rb) | |
 | [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933?language=python3) | [py](solutions/py/30-12933.py) [rb](solutions/rb/30-12933.rb) | |
+| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951?language=python3) | [py](solutions/py/30-12951.py) [rb](solutions/rb/30-12951.rb) | |
 
 
 ## 스택/큐
