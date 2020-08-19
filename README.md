@@ -4,7 +4,6 @@
 ## Integer
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
-| [최대값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939?language=python3) | [rb](solutions/rb/30-12939.rb) | |
 | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911?language=python3) | [rb](solutions/rb/30-12911.rb) | |
 | [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934?language=python3) | [rb](solutions/rb/30-12934.rb) | |
 
@@ -84,6 +83,7 @@
 | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930?language=python3) | [py](solutions/py/30-12930.py) [rb](solutions/rb/30-12930.rb) | |
 | [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943?language=python3) | [py](solutions/py/30-12943.py) [rb](solutions/rb/30-12943.rb) | |
 | [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926?language=python3) | [py](solutions/py/30-12926.py) [rb](solutions/rb/30-12926.rb) | |
+| [최대값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939?language=python3) | [py](solutions/py/30-12939.py) [rb](solutions/rb/30-12939.rb) | |
 
 
 ## 스택/큐
