@@ -5,8 +5,6 @@
 
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
-| [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919?language=python3) | [rb](solutions/rb/30-12919.rb) | |
-| [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981?language=python3) | [rb](solutions/rb/30-12981.rb) | |
 | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945?language=python3) | [rb](solutions/rb/30-12945.rb) | |
 | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977?language=python3) | [rb](solutions/rb/30-12977.rb) | |
 | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953?language=python3) | [rb](solutions/rb/30-12953.rb) | |
@@ -51,7 +49,7 @@
 | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922?language=python3) | [py](solutions/py/30-12922.py) [rb](solutions/rb/30-12922.rb) | |
 | [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937?language=python3) | [py](solutions/py/30-12937.py) [rb](solutions/rb/30-12937.rb) | | 
 | [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917?language=python3) | [py](solutions/py/30-12917.py) [rb](solutions/rb/30-12917.rb) | |
-| [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919?language=python3) | [py](solutions/py/30-12919.py) | |
+| [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919?language=python3) | [py](solutions/py/30-12919.py) [rb](solutions/rb/30-12919.rb) | |
 | [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954?language=python3) | [py](solutions/py/30-12954.py) [rb](solutions/rb/30-12954.rb) | | 
 | [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901?language=python3) | [py](solutions/py/30-12901.py) | | 
 | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921?language=python3) | [py](solutions/py/30-12921.py) [rb](solutions/rb/30-12921.rb) | 에라토스테네스의 체 | 
@@ -83,3 +81,9 @@
 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=python3) | [py](solutions/py/30-42586.py) | |
 | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584?language=python3) | [py](solutions/py/30-42584.py) | |
 
+
+## Summer/Winter Coding(~2018)
+
+| Title | Solutions | Remarks |
+| ---- | ---- | ---- |
+| [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981?language=python3) | [py](solutions/py/30-12981.py) [rb](solutions/rb/30-12981.rb) | |
