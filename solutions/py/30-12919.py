@@ -1,3 +1,7 @@
+# def solution(seoul):
+#     return '김서방은 {}에 있다'.format(seoul.index('Kim'))
+
+
 def solution(seoul):
     for index, person in enumerate(seoul):
         if person == 'Kim': break
