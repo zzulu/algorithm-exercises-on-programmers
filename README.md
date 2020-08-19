@@ -1,17 +1,10 @@
 # Algorithmic Problem Solving on Programmers
 
 
-## Integer
-| Title | Solutions | Remarks |
-| ---- | ---- | ---- |
-| [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934?language=python3) | [rb](solutions/rb/30-12934.rb) | |
-
-
 ## String
 
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
-| [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933?language=python3) | [rb](solutions/rb/30-12933.rb) | |
 | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951?language=python3) | [rb](solutions/rb/30-12951.rb) | |
 
 
@@ -84,13 +77,15 @@
 | [최대값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939?language=python3) | [py](solutions/py/30-12939.py) [rb](solutions/rb/30-12939.rb) | |
 | [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935?language=python3) | [py](solutions/py/30-12935.py) [rb](solutions/rb/30-12935.rb) | |
 | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911?language=python3) | [py](solutions/py/30-12911.py) [rb](solutions/rb/30-12911.rb) | |
+| [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934?language=python3) | [py](solutions/py/30-12934.py) [rb](solutions/rb/30-12934.rb) | |
+| [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933?language=python3) | [py](solutions/py/30-12933.py) [rb](solutions/rb/30-12933.rb) | |
 
 
 ## 스택/큐
 
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
-| [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585?language=python3) | [py](solutions/py/30-42585.py) [rb](solutions/rb/30-42585.rb) | List, Array |
+| [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585?language=python3) | [py](solutions/py/30-42585.py) [rb](solutions/rb/30-42585.rb) | |
 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=python3) | [py](solutions/py/30-42586.py) | |
 | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584?language=python3) | [py](solutions/py/30-42584.py) | |
 
