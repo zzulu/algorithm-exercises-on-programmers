@@ -5,7 +5,6 @@
 
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
-| [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953?language=python3) | [rb](solutions/rb/30-12953.rb) | |
 | [탑](https://programmers.co.kr/learn/courses/30/lessons/42588?language=python3) | [rb](solutions/rb/30-42588.rb) | |
 | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748?language=python3) | [py](solutions/py/30-42748.py) | |
 
@@ -71,6 +70,7 @@
 | [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933?language=python3) | [py](solutions/py/30-12933.py) [rb](solutions/rb/30-12933.rb) | |
 | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951?language=python3) | [py](solutions/py/30-12951.py) [rb](solutions/rb/30-12951.rb) | |
 | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945?language=python3) | [py](solutions/py/30-12945.py) [rb](solutions/rb/30-12945.rb) | |
+| [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953?language=python3) | [py](solutions/py/30-12953.py) [rb](solutions/rb/30-12953.rb) | |
 
 
 ## 스택/큐
