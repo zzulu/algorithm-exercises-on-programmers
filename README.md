@@ -1,37 +1,6 @@
 # Algorithmic Problem Solving on Programmers
 
 
-## List, Array
-
-| Title | Solutions | Remarks |
-| ---- | ---- | ---- |
-| [탑](https://programmers.co.kr/learn/courses/30/lessons/42588?language=python3) | [rb](solutions/rb/30-42588.rb) | |
-| [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748?language=python3) | [py](solutions/py/30-42748.py) | |
-
-
-## 해시
-
-| Title | Solutions | Remarks |
-| ---- | ---- | ---- |
-| [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) | [py](solutions/py/30-42576.py) | |
-
-
-## 탐욕법(Greedy)
-
-| Title | Solutions | Remarks |
-| ---- | ---- | ---- |
-| [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883?language=python3) | [py](solutions/py/30-42883.py) | |
-| [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862?language=python3) | [py](solutions/py/30-42862.py) | |
-| [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885?language=python3) | [py](solutions/py/30-42885.py) | |
-
-
-## 완전탐색
-
-| Title | Solutions | Remarks |
-| ---- | ---- | ---- |
-| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=python3) | [py](solutions/py/30-42840.py) | |
-
-
 ## 연습문제
 
 | Title | Solutions | Remarks |
@@ -82,9 +51,45 @@
 | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584?language=python3) | [py](solutions/py/30-42584.py) | |
 
 
+## 해시
+
+| Title | Solutions | Remarks |
+| ---- | ---- | ---- |
+| [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) | [py](solutions/py/30-42576.py) | |
+
+
+## 탐욕법(Greedy)
+
+| Title | Solutions | Remarks |
+| ---- | ---- | ---- |
+| [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883?language=python3) | [py](solutions/py/30-42883.py) | |
+| [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862?language=python3) | [py](solutions/py/30-42862.py) | |
+| [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885?language=python3) | [py](solutions/py/30-42885.py) | |
+
+
+## 정렬
+
+| Title | Solutions | Remarks |
+| ---- | ---- | ---- |
+| [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748?language=python3) | [py](solutions/py/30-42748.py) | |
+
+
+## 완전탐색
+
+| Title | Solutions | Remarks |
+| ---- | ---- | ---- |
+| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=python3) | [py](solutions/py/30-42840.py) | |
+
+
 ## Summer/Winter Coding(~2018)
 
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
 | [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981?language=python3) | [py](solutions/py/30-12981.py) [rb](solutions/rb/30-12981.rb) | |
 | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977?language=python3) | [py](solutions/py/30-12977.py) [rb](solutions/rb/30-12977.rb) | |
+
+
+## ?
+| Title | Solutions | Remarks |
+| ---- | ---- | ---- |
+| [탑](https://programmers.co.kr/learn/courses/30/lessons/42588?language=python3) | [rb](solutions/rb/30-42588.rb) | |
