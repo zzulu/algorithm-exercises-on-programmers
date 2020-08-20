@@ -5,7 +5,6 @@
 
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
-| [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977?language=python3) | [rb](solutions/rb/30-12977.rb) | |
 | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953?language=python3) | [rb](solutions/rb/30-12953.rb) | |
 | [탑](https://programmers.co.kr/learn/courses/30/lessons/42588?language=python3) | [rb](solutions/rb/30-42588.rb) | |
 | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748?language=python3) | [py](solutions/py/30-42748.py) | |
@@ -88,3 +87,4 @@
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
 | [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981?language=python3) | [py](solutions/py/30-12981.py) [rb](solutions/rb/30-12981.rb) | |
+| [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977?language=python3) | [py](solutions/py/30-12977.py) [rb](solutions/rb/30-12977.rb) | |
