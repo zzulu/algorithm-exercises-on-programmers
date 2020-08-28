@@ -87,3 +87,9 @@
 | ---- | ---- | ---- |
 | [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981?language=python3) | [py](solutions/py/30-12981.py) [rb](solutions/rb/30-12981.rb) | |
 | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977?language=python3) | [py](solutions/py/30-12977.py) [rb](solutions/rb/30-12977.rb) | |
+
+
+## 2020 카카오 인턴십
+| Title | Solutions | Remarks |
+| ---- | ---- | ---- |
+| [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256?language=python3) | [py](solutions/py/30-67256.py) | |
