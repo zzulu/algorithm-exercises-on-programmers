@@ -89,6 +89,12 @@
 | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977?language=python3) | [py](solutions/py/30-12977.py) [rb](solutions/rb/30-12977.rb) | |
 
 
+## 2019 KAKAO BLIND RECRUITMENT
+| Title | Solutions | Remarks |
+| ---- | ---- | ---- |
+| [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=python3) | [py](solutions/py/30-42889.py) | |
+
+
 ## 2020 카카오 인턴십
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
