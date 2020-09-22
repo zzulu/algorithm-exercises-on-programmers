@@ -2,7 +2,6 @@
 
 
 ## 연습문제
-
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
 | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899?language=python3) | [py](solutions/py/30-12899.py) | |
@@ -43,7 +42,6 @@
 
 
 ## 스택/큐
-
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
 | [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585?language=python3) | [py](solutions/py/30-42585.py) [rb](solutions/rb/30-42585.rb) | |
@@ -52,14 +50,12 @@
 
 
 ## 해시
-
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) | [py](solutions/py/30-42576.py) | |
 
 
 ## 탐욕법(Greedy)
-
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
 | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883?language=python3) | [py](solutions/py/30-42883.py) | |
@@ -68,14 +64,12 @@
 
 
 ## 정렬
-
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
 | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748?language=python3) | [py](solutions/py/30-42748.py) | |
 
 
 ## 완전탐색
-
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=python3) | [py](solutions/py/30-42840.py) | |
@@ -87,6 +81,12 @@
 | ---- | ---- | ---- |
 | [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981?language=python3) | [py](solutions/py/30-12981.py) [rb](solutions/rb/30-12981.rb) | |
 | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977?language=python3) | [py](solutions/py/30-12977.py) [rb](solutions/rb/30-12977.rb) | |
+
+
+## Summer/Winter Coding(2019)
+| Title | Solutions | Remarks |
+| ---- | ---- | ---- |
+| [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048?language=python3) | [py](solutions/py/30-62048.py) | |
 
 
 ## 2018 KAKAO BLIND RECRUITMENT
