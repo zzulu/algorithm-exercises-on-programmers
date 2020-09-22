@@ -47,6 +47,7 @@
 | [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585?language=python3) | [py](solutions/py/30-42585.py) [rb](solutions/rb/30-42585.rb) | |
 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=python3) | [py](solutions/py/30-42586.py) | |
 | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584?language=python3) | [py](solutions/py/30-42584.py) | |
+| [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587?language=python3) | [py](solutions/py/30-42587.py) | |
 
 
 ## 해시
