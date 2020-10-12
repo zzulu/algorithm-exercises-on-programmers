@@ -82,6 +82,7 @@
 | ---- | ---- | ---- |
 | [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981?language=python3) | [py](solutions/py/30-12981.py) [rb](solutions/rb/30-12981.rb) | |
 | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977?language=python3) | [py](solutions/py/30-12977.py) [rb](solutions/rb/30-12977.rb) | |
+| [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993?language=python3) | [py](solutions/py/30-49993.py) | |
 
 
 ## Summer/Winter Coding(2019)
