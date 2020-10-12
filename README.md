@@ -112,6 +112,7 @@
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
 | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973?language=python3) | [py](solutions/py/30-12973.py) | |
+| [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985?language=python3) | [py](solutions/py/30-12985.py) | |
 
 
 ## 월간 코드 챌린지 시즌1
