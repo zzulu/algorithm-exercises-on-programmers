@@ -107,6 +107,12 @@
 | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256?language=python3) | [py](solutions/py/30-67256.py) | |
 
 
+## 2017 팁스타운
+| Title | Solutions | Remarks |
+| ---- | ---- | ---- |
+| [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973?language=python3) | [py](solutions/py/30-12973.py) | |
+
+
 ## 월간 코드 챌린지 시즌1
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
