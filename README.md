@@ -115,6 +115,12 @@
 | [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985?language=python3) | [py](solutions/py/30-12985.py) | |
 
 
+## 2019 카카오 개발자 겨울 인턴십
+| Title | Solutions | Remarks |
+| ---- | ---- | ---- |
+| [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061?language=python3) | [py](solutions/py/30-64061.py) | |
+
+
 ## 월간 코드 챌린지 시즌1
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
