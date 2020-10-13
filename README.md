@@ -96,6 +96,7 @@
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
 | [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681?language=python3) | [py](solutions/py/30-17681.py) | |
+| [[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682?language=python3) | [py](solutions/py/30-17682.py) | |
 
 
 ## 2019 KAKAO BLIND RECRUITMENT
