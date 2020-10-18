@@ -48,6 +48,7 @@
 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=python3) | [py](solutions/py/30-42586.py) | |
 | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584?language=python3) | [py](solutions/py/30-42584.py) | |
 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587?language=python3) | [py](solutions/py/30-42587.py) | |
+| [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583?language=python3) | [py](solutions/py/30-42583.py) | |
 
 
 ## 해시
