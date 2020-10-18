@@ -79,8 +79,7 @@
 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=python3) | [py](solutions/py/30-42840.py) | |
 
 
-## Summer/Winter Coding(~2018)
-
+## Summer/Winter Coding(\~2018)
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
 | [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981?language=python3) | [py](solutions/py/30-12981.py) [rb](solutions/rb/30-12981.rb) | |
