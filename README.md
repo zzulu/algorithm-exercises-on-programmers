@@ -133,3 +133,4 @@
 | [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935?language=python3) | [py](solutions/py/30-68935.py) | 10월 |
 | [쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936?language=python3) | [py](solutions/py/30-68936.py) | 10월 |
 | [내적](https://programmers.co.kr/learn/courses/30/lessons/70128?language=python3) | [py](solutions/py/30-70128.py) | 11월 |
+| [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129?language=python3) | [py](solutions/py/30-70129.py) | 11월 |
