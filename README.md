@@ -58,6 +58,12 @@
 | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578?language=python3) | [py](solutions/py/30-42578.py) | |
 
 
+## 힙(Heap)
+| Title | Solutions | Remarks |
+| ---- | ---- | ---- |
+| [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626?language=python3) | [py](solutions/py/30-42626.py) | |
+
+
 ## 탐욕법(Greedy)
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
