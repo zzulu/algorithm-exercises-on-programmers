@@ -55,6 +55,7 @@
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) | [py](solutions/py/30-42576.py) | |
+| [위장](https://programmers.co.kr/learn/courses/30/lessons/42578?language=python3) | [py](solutions/py/30-42578.py) | |
 
 
 ## 탐욕법(Greedy)
