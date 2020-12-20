@@ -78,6 +78,7 @@
 | ---- | ---- | ---- |
 | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748?language=python3) | [py](solutions/py/30-42748.py) | |
 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746?language=python3) | [py](solutions/py/30-42746.py) | |
+| [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747?language=python3) | [py](solutions/py/30-42747.py) | |
 
 
 
