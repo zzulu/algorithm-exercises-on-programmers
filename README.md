@@ -138,6 +138,7 @@
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
 | [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644?language=python3) | [py](solutions/py/30-68644.py) | 9월 |
+| [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645?language=python3) | [py](solutions/py/30-68645.py) | 9월 |
 | [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935?language=python3) | [py](solutions/py/30-68935.py) | 10월 |
 | [쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936?language=python3) | [py](solutions/py/30-68936.py) | 10월 |
 | [내적](https://programmers.co.kr/learn/courses/30/lessons/70128?language=python3) | [py](solutions/py/30-70128.py) | 11월 |
