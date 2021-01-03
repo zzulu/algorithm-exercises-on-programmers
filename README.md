@@ -41,6 +41,7 @@
 | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953?language=python3) | [py](solutions/py/30-12953.py) [rb](solutions/rb/30-12953.rb) |
 | [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941?language=python3) | [py](solutions/py/30-12941.py) |
 | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909?language=python3) | [py](solutions/py/30-12909.py) |
+| [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949?language=python3) | [py](solutions/py/30-12949.py) |
 
 
 ## 스택/큐
