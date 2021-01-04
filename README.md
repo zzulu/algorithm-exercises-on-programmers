@@ -99,6 +99,7 @@
 | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977?language=python3) | [py](solutions/py/30-12977.py) [rb](solutions/rb/30-12977.rb) |
 | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993?language=python3) | [py](solutions/py/30-49993.py) |
 | [예산](https://programmers.co.kr/learn/courses/30/lessons/12982?language=python3) | [py](solutions/py/30-12982.py) |
+| [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980?language=python3) | [py](solutions/py/30-12980.py) |
 
 
 ## Summer/Winter Coding(2019)
