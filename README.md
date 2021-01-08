@@ -74,6 +74,7 @@
 | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883?language=python3) | [py](solutions/py/30-42883.py) |
 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862?language=python3) | [py](solutions/py/30-42862.py) |
 | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885?language=python3) | [py](solutions/py/30-42885.py) |
+| [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860?language=python3) | [py](solutions/py/30-42860.py) |
 
 
 ## 정렬
