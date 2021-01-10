@@ -102,6 +102,7 @@
 | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993?language=python3) | [py](solutions/py/30-49993.py) |
 | [예산](https://programmers.co.kr/learn/courses/30/lessons/12982?language=python3) | [py](solutions/py/30-12982.py) |
 | [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980?language=python3) | [py](solutions/py/30-12980.py) |
+| [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842?language=python3) | [py](solutions/py/30-42842.py) |
 
 
 ## Summer/Winter Coding(2019)
