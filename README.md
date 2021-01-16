@@ -42,6 +42,7 @@
 | [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941?language=python3) | [py](solutions/py/30-12941.py) |
 | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909?language=python3) | [py](solutions/py/30-12909.py) |
 | [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949?language=python3) | [py](solutions/py/30-12949.py) |
+| [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924?language=python3) | [py](solutions/py/30-12924.py) |
 
 
 ## 스택/큐
