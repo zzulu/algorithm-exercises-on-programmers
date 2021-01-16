@@ -126,6 +126,12 @@
 | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=python3) | [py](py/30-42889.py) |
 
 
+## 2019 카카오 개발자 겨울 인턴십
+| Title | Solutions |
+| ---- | ---- |
+| [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065?language=python3) | [py](py/30-64065.py) |
+
+
 ## 2020 카카오 인턴십
 | Title | Solutions |
 | ---- | ---- |
