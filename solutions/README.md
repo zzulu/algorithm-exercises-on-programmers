@@ -28,7 +28,7 @@
 | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947?language=python3) | [py](py/30-12947.py) [rb](rb/30-12947.rb) |
 | [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940?language=python3) | [py](py/30-12940.py) [rb](rb/30-12940.rb) |
 | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930?language=python3) | [py](py/30-12930.py) [rb](rb/30-12930.rb) |
-| [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943?language=python3) | [py](py/30-12943.py) [rb](rb/30-12943.rb) |
+| [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943?language=python3) | [py](py/30-12943.py) [rb](rb/30-12943.rb) [java](java/src/n12943/Main.java) |
 | [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926?language=python3) | [py](py/30-12926.py) [rb](rb/30-12926.rb) |
 | [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932?language=python3) | [py](py/30-12932.py) |
 | [최대값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939?language=python3) | [py](py/30-12939.py) [rb](rb/30-12939.rb) |
