@@ -160,3 +160,9 @@
 | [쿼드압축 후 개수 세기 (10월)](https://programmers.co.kr/learn/courses/30/lessons/68936?language=python3) | [py](py/30-68936.py) |
 | [내적 (11월)](https://programmers.co.kr/learn/courses/30/lessons/70128?language=python3) | [py](py/30-70128.py) |
 | [이진 변환 반복하기 (11월)](https://programmers.co.kr/learn/courses/30/lessons/70129?language=python3) | [py](py/30-70129.py) |
+
+
+## 월간 코드 챌린지 시즌3
+| Title | Solutions |
+| ---- | ---- |
+| [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051?language=java) | [java](java/src/n86051/Main.java) |
