@@ -1,1 +1,11 @@
+## Java
+
+# IntelliJ IDEA
+.idea/
+out/
+*.iml
+
+
+# OS
+
 .DS_Store

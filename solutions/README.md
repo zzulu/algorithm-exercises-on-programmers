@@ -20,7 +20,7 @@
 | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921?language=python3) | [py](py/30-12921.py) [rb](rb/30-12921.rb) |
 | [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931?language=python3) | [py](py/30-12931.py) |
 | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928?language=python3) | [py](py/30-12928.py) [rb](rb/30-12928.rb) |
-| [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950?language=python3) | [py](py/30-12950.py) [rb](rb/30-12950.rb) |
+| [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950?language=python3) | [py](py/30-12950.py) [rb](rb/30-12950.rb) [java](java/src/n12950/Main.java) |
 | [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948?language=python3) | [py](py/30-12948.py) [rb](rb/30-12948.rb) |
 | [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944?language=python3) | [py](py/30-12944.py) [rb](rb/30-12944.rb) |
 | [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906?language=python3) | [rb](rb/30-12906.rb) [py](py/30-12906.py) |
