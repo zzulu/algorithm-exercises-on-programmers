@@ -178,3 +178,9 @@
 | Title | Solutions |
 | ---- | ---- |
 | [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301?language=java) | [java](java/src/n81301/Main.java) |
+
+
+## 2021 KAKAO BLIND RECRUITMENT
+| Title | Solutions |
+| ---- | ---- |
+| [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410?language=java) | [java](java/src/n72410/Main.java) |
