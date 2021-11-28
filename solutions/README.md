@@ -162,6 +162,12 @@
 | [이진 변환 반복하기 (11월)](https://programmers.co.kr/learn/courses/30/lessons/70129?language=python3) | [py](py/30-70129.py) |
 
 
+## 월간 코드 챌린지 시즌2
+| Title | Solutions |
+| ---- | ---- |
+| [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501?language=java) | [java](java/src/n76501/Solution.java) |
+
+
 ## 월간 코드 챌린지 시즌3
 | Title | Solutions |
 | ---- | ---- |
