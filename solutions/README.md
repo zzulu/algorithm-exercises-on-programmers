@@ -201,4 +201,4 @@
 ## 2022 KAKAO BLIND RECRUITMENT
 | Title | Solutions |
 | ---- | ---- |
-| [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334?language=python3) | [py](py/30-92334.py) |
+| [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334?language=python3) | [py](py/30-92334.py) [java](java/src/n92334/Solution.java) |
