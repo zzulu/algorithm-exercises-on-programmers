@@ -196,3 +196,9 @@
 | Title | Solutions |
 | ---- | ---- |
 | [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845?language=python3) | [py](py/30-1845.py) |
+
+
+## 2022 KAKAO BLIND RECRUITMENT
+| Title | Solutions |
+| ---- | ---- |
+| [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334?language=python3) | [py](py/30-92334.py) |
