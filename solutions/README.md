@@ -44,6 +44,7 @@
 | [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949?language=python3) | [py](py/30-12949.py) |
 | [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924?language=python3) | [py](py/30-12924.py) |
 | [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913?language=python3) | [py](py/30-12913.py) |
+| [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928?language=python3) | [rb](rb/30-172928.rb) |
 
 
 ## 스택/큐
