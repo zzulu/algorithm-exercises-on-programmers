@@ -47,6 +47,7 @@
 | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928?language=python3) | [rb](rb/30-172928.rb) |
 | [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956?language=python3) | [rb](rb/30-120956.rb) |
 | [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924?language=python3) | [rb](rb/30-120924.rb) |
+| [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108?language=python3) | [rb](rb/30-140108.rb) |
 
 
 ## 스택/큐
