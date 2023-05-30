@@ -50,6 +50,7 @@
 | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108?language=python3) | [rb](rb/30-140108.rb) |
 | [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927?language=python3) | [rb](rb/30-172927.rb) |
 | [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963?language=python3) | [rb](rb/30-176963.rb) |
+| [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539?language=python3) | [py](py/30-154539.py) |
 
 
 ## 스택/큐
